@@ -8,7 +8,7 @@ tags: [phy, utkal]
 group: "semester1"
 ---
 
-### Mathematical Physics I
+### Mathematical Physics I Vectors, Differential Equations...
 
 #### 2024 | +3-I-S-NEP-Major-I-P-1-Sc-Phy | Full Marks : 100 
 
