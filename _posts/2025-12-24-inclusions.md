@@ -46,6 +46,7 @@ bootstrap: true
     
 # Call out system
 Looking at quarto, material mkdocs, genspeck etc., lets try 'call out' option if possible `html` way! 
+* Bootstrap to be enabled in yaml.
 
 <div class="alert alert-success" role="alert">
   <strong>Well done!</strong> You successfully read this important alert message.
@@ -60,4 +61,21 @@ Looking at quarto, material mkdocs, genspeck etc., lets try 'call out' option if
   <strong>Oh snap!</strong> Change a few things up and try submitting again.
 </div>
 
+### liquid way for single paragraph.
+{: .notice}
 Then the liquid way might be tried.
+When using Kramdown {: .notice} can be added after a sentence to assign the .notice to the <p></p> element.
+
+### liquid way for _multiple_ paragraphs.
+{% capture notice-2 %}
+#### liquid way for _multiple_
+
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}
+
+### html way
+<div class="notice">
+  <h4>Message</h4>
+  <p>A basic message.</p>
+</div>
