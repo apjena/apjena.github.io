@@ -3,6 +3,7 @@ layout: post
 title: Inclusions 
 tags: [Test, Image]
 categories: Tutorial
+bootstrap: true
 ---
 
 # Glowing Title
