@@ -62,12 +62,13 @@ Looking at quarto, material mkdocs, genspeck etc., lets try 'call out' option if
 </div>
 
 ### liquid way for single paragraph.
-{: .notice}
+{: .alert}
 Then the liquid way might be tried.
-When using Kramdown {: .notice} can be added after a sentence to assign the .notice to the <p></p> element.
+When using Kramdown {: .notice} can be added after a sentence to assign the '.notice' to the <p></p> element.
+If you put {: #your-id-name} on the line underneath anything then it'll make an id for that element and you can link to it.
 
 ### liquid way for _multiple_ paragraphs.
-{% capture notice-2 %}
+{% capture alert alert-info %}
 #### liquid way for _multiple_
 
 * You can now have cover images on blog pages
@@ -75,7 +76,7 @@ When using Kramdown {: .notice} can be added after a sentence to assign the .not
 {% endcapture %}
 
 ### html way
-<div class="notice">
+<div class="alert">
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
