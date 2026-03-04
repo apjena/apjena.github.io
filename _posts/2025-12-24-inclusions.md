@@ -48,21 +48,33 @@ bootstrap: true
 Looking at quarto, material mkdocs, genspeck etc., lets try 'call out' option if possible `html` way! 
 * Bootstrap to be enabled in yaml.
 
-<div class="alert alert-success" role="alert">
-  <strong>Well done!</strong> You successfully read this important alert message.
+<div class="alert alert-primary" role="alert">
+  <strong>Well done!</strong> You successfully read this important alert primary message.
 </div>
-<div class="alert alert-info" role="alert">
-  <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+<div class="alert alert-secondary" role="alert">
+  <strong>Heads up!</strong> This **alert secondary** needs your attention, but it's not super important.
+</div>
+<div class="alert alert-success" role="alert">
+  <strong>Well done!</strong> You successfully read this important 'alert success' message.
+</div>
+<div class="alert alert-danger" role="alert">
+  <strong>Heads up!</strong> This 'alert danger' needs your attention, but it's not super important.
 </div>
 <div class="alert alert-warning" role="alert">
   <strong>Warning!</strong> Better check yourself, you're not looking too good.
 </div>
-<div class="alert alert-danger" role="alert">
-  <strong>Oh snap!</strong> Change a few things up and try submitting again.
+<div class="alert alert-info" role="alert">
+  <strong>INFO:</strong> alert-info.
+</div>
+<div class="alert alert-light" role="alert">
+  <strong>Well done!</strong> You successfully read this important alert light message.
+</div>
+<div class="alert alert-dark" role="alert">
+  <strong>Heads up!</strong> This alert dark needs your attention, but it's not super important.
 </div>
 
 ### liquid way for single paragraph.
-{: .alert}
+{: .alert alert-info}
 Then the liquid way might be tried.
 When using Kramdown {: .notice} can be added after a sentence to assign the '.notice' to the <p></p> element.
 If you put {: #your-id-name} on the line underneath anything then it'll make an id for that element and you can link to it.
