@@ -15,9 +15,6 @@ tags: [Page, phy, utkal]
 Model Curriculum for Three/Four Year Degree Course (With Multiple Entry /Exit Option) Based on NEP-2020 for Physics by Odisha State Higher Education Council, Bhubaneswar, 
 Government of Odisha provides the following subjects:
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-6">
 
 **Sem I**
 * Core I -  Mathematical Physics-I
@@ -36,10 +33,6 @@ Government of Odisha provides the following subjects:
 * Core VIII-  Analog Systems
 * Core IX-  Basic Instrumentation
 * Core X-  Nuclear and Particle Physics
-
-  
-    </div>
-    <div class="col-md-6">
 
 ##### V
 * Core XI-   Digital Systems
@@ -62,9 +55,6 @@ Government of Odisha provides the following subjects:
 * Core XXII-  Electronics
 * Core XXIII-  Laboratory: Optics and Modern Physics Lab
       
-    </div>
-  </div>
-</div>
 
 
 {% assign groupnames = site.bscphys | group_by: 'group' %}
