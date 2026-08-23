@@ -397,3 +397,86 @@ ctx.fillRect(10, 10, 150, 75);                    // Step 3: Draw a filled recta
   </div>
 </div>
 
+--------
+
+    <div class="form-group">
+        <label for="semSelect">Choose Semester:</label>
+        <select id="semSelect" onchange="updatePapers()">
+            <option value="">-- Select Semester --</option>
+            <option value="semall">GE, Minor or MDC</option>
+            <option value="sem1">Semester 1</option>
+            <option value="sem2">Semester 2</option>
+            <option value="sem3">Semester 3</option>
+            <option value="sem4">Semester 4</option>
+            <option value="sem5">Semester 5</option>
+            <option value="sem6">Semester 6</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="paperSelect">Choose Paper:</label>
+        <select id="paperSelect" disabled>
+            <option value="">-- Select Semester First --</option>
+        </select>
+    </div>
+
+    <button onclick="viewQuestions()">View Questions</button>
+
+    <script>
+        // Define paper options for each class
+        const semData = {
+            "sem1": ["Paper 1 (Mathematical Physics-I: Calculus &amp; Vectors)",
+                     "Paper 1 Practical",
+                     "Paper 2 (Mechanics)", 
+                     "Paper 2 Practical"
+                    ],
+            "sem2": ["Paper 3 (Electricity and Magnetism)", 
+                     "Paper 3 Practical",
+                     "Paper 4 (Mathematical Physics-II: Fourier Series, Polynomials, PDE)", 
+                     "Paper 4 Practical"
+                    ],
+            "sem3": ["Paper 5 (Waves and Optics)",
+                     "Paper 5 Practical", 
+                     "Paper 6 (Mathematical Physics-III: Complex Analysis, Integral transforms, Laplace T.)",
+                     "Paper 6 Practical",
+                     "Paper 7 (Thermal Physics)",
+                     "Paper 7 Practical"
+                    ]
+        };
+
+        function updatePapers() {
+            const semDropdown = document.getElementById("semSelect");
+            const paperDropdown = document.getElementById("paperSelect");
+            const selectedSem = semDropdown.value;
+
+            // Clear existing options
+            paperDropdown.innerHTML = '<option value="">-- Select Paper --</option>';
+
+            if (selectedSem && semData[selectedSem]) {
+                paperDropdown.disabled = false;
+                
+                // Add new options based on selection
+                semData[selectedSem].forEach( paper => {
+                    let option = document.createElement("option");
+                    option.value = paper.toLowerCase().replace(/\s+/g, '-');
+                    option.textContent = paper;
+                    paperDropdown.appendChild(option);
+                });
+            } else {
+                paperDropdown.disabled = true;
+                paperDropdown.innerHTML = '<option value="">-- Select Semester First --</option>';
+            }
+        }
+
+        function viewQuestions() {
+            const sem = document.getElementById("semSelect").value;
+            const pap = document.getElementById("paperSelect").value;
+
+            if (sem && pap) {
+                alert(`You selected Semester: ${sem.replace('sem', '')} and Paper: ${pap.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}. You would typically navigate to a page like "${sem}-${pap}.html" here.`);
+            } else {
+                alert("Please select both Semester and Paper!");
+            }
+        }
+</script>
+
