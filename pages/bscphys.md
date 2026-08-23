@@ -3,7 +3,7 @@ layout: page
 title: BSc Physics  
 bootstrap: true
 permalink: /bscphys/
-subtitle: "under Utkal University" 
+subtitle: "Under Utkal University" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page, phy, utkal]
 ---
@@ -12,9 +12,9 @@ tags: [Page, phy, utkal]
 
 # Physics @ Utkal University Colleges 
 
-Model Curriculum for Three/Four Year Degree Course (With Multiple Entry /Exit Option) Based on NEP-2020 for Physics by Odisha State Higher Education Council, Bhubaneswar, 
+Model Curriculum for Three/Four Year Degree Course (With Multiple Entry /Exit Option) Based 
+on NEP-2020 for Physics by Odisha State Higher Education Council, Bhubaneswar, 
 Government of Odisha provides the following subjects:
-
 
 ##### Semester I
 * Core I -  Mathematical Physics-I
@@ -59,8 +59,9 @@ Government of Odisha provides the following subjects:
 
 {% assign groupnames = site.bscphys | group_by: 'group' %}
 {% for group in groupnames %}
----
 
+{% comment %}
+---
 <div class="dropdown">
   <button class="dropbtn">{{ group.name | capitalize }}</button>
   <div class="dropdown-content">
@@ -70,7 +71,7 @@ Government of Odisha provides the following subjects:
   </div>
 </div>
 
-{% comment %}
+{% endcomment %}
 ---
 <details><summary><h3><svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -95,7 +96,7 @@ Government of Odisha provides the following subjects:
 {% endfor %}
 </ol>
 </details>
-{% endcomment %}
+
 
 {% endfor %}
 
