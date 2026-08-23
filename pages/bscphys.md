@@ -16,42 +16,42 @@ Model Curriculum for Three/Four Year Degree Course (With Multiple Entry /Exit Op
 Government of Odisha provides the following subjects:
 
 
-**Sem I**
+##### Semester I
 * Core I -  Mathematical Physics-I
 * Core II-  Mechanics
   
-**Sem II**
+##### Semester II
 * Core III-  Electricity and Magnetism
 * Core IV -  Mathematical Physics-II
 
-##### III
+##### Semester III
 * Core V-   Waves and Optics
 * Core VI-  Mathematical Physics-III
 * Core VII-  Thermal Physics
 
-##### IV
+##### Semester IV
 * Core VIII-  Analog Systems
 * Core IX-  Basic Instrumentation
 * Core X-  Nuclear and Particle Physics
 
-##### V
+##### Semester V
 * Core XI-   Digital Systems
-* Core  XII-  Quantum Mechanics and Applications
+* Core XII-  Quantum Mechanics and Applications
 * Core XIII-  Solid State Physics
 
-##### VI
-* Core  XIV-  Electromagnetic Theory
+##### Semester VI
+* Core XIV-  Electromagnetic Theory
 * Core XV-  Statistical Mechanics
 
-##### VII (4th year)
+##### Semester VII (4th year)
 * Core XVI-  Mathematical Methods in Physics
 * Core XVII-  Classical Mechanics
 * Core XVIII-  QUANTUM MECHANICS
-* Core  XIX-  LABORATORY: COMPUTATIONAL PHYSICS
+* Core XIX-  LABORATORY: COMPUTATIONAL PHYSICS
 
-##### VIII (4th year)
+##### Semester VIII (4th year)
 * Core XX-  Classical Electrodynamics
-* Core  XXI-  QUANTUM MECHANICS-II
+* Core XXI-  QUANTUM MECHANICS-II
 * Core XXII-  Electronics
 * Core XXIII-  Laboratory: Optics and Modern Physics Lab
       
@@ -70,6 +70,7 @@ Government of Odisha provides the following subjects:
   </div>
 </div>
 
+{% comment %}
 ---
 <details><summary><h3><svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -94,6 +95,7 @@ Government of Odisha provides the following subjects:
 {% endfor %}
 </ol>
 </details>
+{% endcomment %}
 
 {% endfor %}
 
