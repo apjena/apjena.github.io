@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Paper 6"
+feature-img: "assets/img/apjfolio/sem3.jpg"
+img: "assets/img/apjfolio/sem3.jpg"
+date: April, 08 2014
+tags: [phy, utkal]
+group: "semester3"
+---
+
 ### +3-IV-S-CBCS(MS)-Sc(H)-Core-VIII-Phy-R&B
 #### 2025 | Full Mark 60
 

@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Paper 7"
+feature-img: "assets/img/apjfolio/sem3.jpg"
+img: "assets/img/apjfolio/sem3.jpg"
+date: April, 08 2014
+tags: [phy, utkal]
+group: "semester3"
+---
+
 ### +3-I-S-CBCS(MS)-Sc(H)-Core-VI-Phy-R&B
 #### 2024
 ##### PART-I | Answer all. | 1x8

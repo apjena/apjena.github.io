@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Paper 9"
+feature-img: "assets/img/apjfolio/sem4.jpg"
+img: "assets/img/apjfolio/sem4.jpg"
+date: April, 08 2014
+tags: [phy, utkal]
+group: "semester4"
+---
+
 ### +3-VI-S-CBCS(MS)-Sc(H)-DSE-V-Phy-R&B
 
 #### 2025
