@@ -331,6 +331,12 @@ Prior to the adoption of the National Education Policy (NEP) 2020, Utkal Univers
 The structure of the three-year B.Sc. Physics Honours program at Utkal University, under the 2019 DHE, Odisha CBCS model syllabus, was divided into six semesters with specific course types: Core Courses (CC), Ability Enhancement Compulsory Courses (AECC), Skill Enhancement Courses (SEC), and Discipline Specific Elective (DSE) courses. 
 
 ### The structure of the curriculum was as follows:
+
+|Course Type, Credits (Theory + Practical + Tutorial) | Course Name |
+|-----------------------------------------------------|-------------|
+| *Semester 1*       | Tot. Cr. :24, Marks: 400 |
+| AECC I | English/ MIL Communication/ Environmental Science | 
+      
 <table>
   <thead>
     <tr>
