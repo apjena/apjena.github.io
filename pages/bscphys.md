@@ -395,3 +395,89 @@ Papers with 3 credits each: MDC(3×3), SEC(3×3) & VAC(4×3) = 30.
 </tr>
   </tbody>
 </table>
+
+## QUESTION BANK
+
+<div class="accordion">
+  
+<details name="sem">
+  <summary>GE, Minor or MDC</summary>
+  <ul>
+    <li><a href="https://rancoll.blogspot.com/2026/01/ge-cbcs.html" target="_blank">GE (CBCS)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/ge-practical.html" target ="_blank">GE Practical (CBCS)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/minors.html" target="_blank">MINORS (NEP)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/minor-2-practical.html">MINORS PRACTICAL</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/01/mdc-nano-phy.html" target="_blank">MDC (NANO PHYSICS-NEP)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/dse-1-classical-dynamics.html" target="_blank">CBCS DES 1 Classical Dynamics</a></li>
+  </ul>
+</details>
+
+<details name="sem">
+  <summary>Semester 1</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2025/05/paper-1.html" target="_blank">Paper 1 (Mathematical Physics-I: Calculus &amp; Vectors)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-1-pract.html" target="_blank">Paper 1 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2025/05/paper2.html" target="_blank">Paper 2 (Mechanics) </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-2-practical.html" target="_blank">Paper 2 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 2</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-3.html" target="_blank">Paper 3 (Electricity and Magnetism)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-3-practical.html" target="_blank">Paper 3 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-4.html" target="_blank">Paper 4 (Mathematical Physics-II: Fourier Series, Polynomials, PDE)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-4-practical.html" target="_blank">Paper 4 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 3</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-5.html" target="_blank">Paper 5 (Waves and Optics)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-5-practical.html" target="_blank">Paper 5 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-6.html" target="_blank">Paper 6 (Mathematical Physics-III: Complex Analysis, Integral transforms, Laplace T.)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-6-practical.html" target="_blank">Paper 6 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-7.html" target="_blank">Paper 7 (Thermal Physics)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-7-practical.html" target="_blank">Paper 7 Practical </a></li>
+  </ol>
+
+</details>
+
+<details name="sem">
+  <summary>Semester 4</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-8.html" target="_blank">Paper 8 (Analog Systems)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-8-practical.html" target="_blank">Paper 8 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-9.html" target="_blank">Paper 9 (Basic Instrumentation)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-9-practical.html" target="_blank">Paper 9 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-10.html" target="_blank">Paper 10 (Nuclear and Particle Physics)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-10-practical.html" target="_blank">Paper 10 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 5</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-11.html" target="_blank">Paper 11(Digital Systems)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-11-practical.html" target="_blank">Paper 11 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-12.html" target="_blank">Paper 12 (Quantum Mechanics and Applications)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-12-practical.html" target="_blank">Paper 12 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-13.html" target="_blank">Paper 13 (Solid State Physics)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-13-practical.html" target="_blank">Paper 13 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 6</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-14.html" target="_blank">Paper 14 (Electromagnetic Theory)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-14-practical.html" target="_blank">Paper 14 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-15.html" target="_blank">Paper 15 (Statistical Mechanics) </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-15-practical.html" target="_blank">Paper15 Practical </a></li>
+  </ol>
+</details>
+
+</div> <!--accordion-->
+
