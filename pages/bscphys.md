@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: BSc Physics  
+title: BSc Physics 
 bootstrap: true
 permalink: /bscphys/
 subtitle: "Under Utkal University" 
@@ -10,50 +10,185 @@ tags: [Page, phy, utkal]
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-# Physics @ Utkal University Colleges 
+# Physics Honours in Colleges Utkal University 
 
+## National Education Policy(NEP) 2020
+
+The implementation of NEP 2020 introduced a significant paradigm shift in Education sector, most notably through the establishment of the **Four-Year Undergraduate Programme (FYUP)**. Key features of the new system include **flexible multiple entry and exit points**, an updated credit architecture, and a strong emphasis on interdisciplinary studies and vocational skills, moving away from the previous prescriptive model.
+
+Utkal University offers for its affiliated Colleges, **Single Major (Honours) Two Minor Scheme** in lieu of the earler existing **Honours** curriculum. Effective from the **2024–25** academic session, Utkal University has implemented the <b>National Education Policy (NEP) 2020</b> for all undergraduate degree courses. Under the new structure, every paper culminates in a final examination worth a total of **100 marks**. This final exam weightage is 50% for subjects with a practical component and 60% for purely non-practical (theory) subjects, to the gradesheet. Previously known  <b>Honours Core Papers</b> are now officially referred to as <b>Major Papers</b>. Despite changes in examination question patterns and paper redistribution, the core syllabus content of relevant subjects remains consistent with the corresponding new major papers. 
+
+Utkal University has adopted  Single Major (Honours) Two Minor Scheme for its affiliated colleges in place of the Honours stream. The **Physics Single Major two Minors (Chemistry & Math)** will have the following Paper structure as per the regulations of OSHEC.
+
+ <table>
+  <thead>
+    <tr>
+      <th>Semester: </th> <th>I</th> <th>II</th>
+      <th>III</th> <th>IV</th> <th>V</th> <th>VI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Major-1-Paper- </td>
+      <td>1 & 2 </td>
+      <td>3 & 4 </td>
+      <td>5, 6 & 7 </td>
+      <td>8, 9 & 10 </td>
+      <td>11, 12 & 13 </td>
+      <td>14 & 15 </td>
+    </tr>
+     <tr>
+      <td>Minor-1-Paper-</td>
+      <td>1</td>
+      <td>-- </td>
+      <td>2</td>
+      <td>-- </td>
+      <td>3</td>
+      <td>-- </td>
+    </tr>
+      <tr>
+      <td>Minor-2-Paper-</td>
+      <td>-- </td>
+      <td>1</td>
+      <td>-- </td>
+      <td>2</td>
+      <td>-- </td>
+      <td>3</td>
+    </tr>
+     <tr>
+      <td>Multi Disciplinary</td>
+      <td>MDC 1</td>
+      <td>MDC 2</td>
+      <td>MDC 3</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr> 
+      <tr>
+      <td>AEC</td>
+      <td>1 Odia</td>
+      <td>2 English </td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+    </tr>
+     <tr>
+      <td>SEC</td>
+      <td>--</td>
+      <td>1</td>
+      <td>--</td>
+      <td>--</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>     
+    <tr>
+      <td>VAC</td>
+      <td>1 ES&DM</td>
+      <td>--</td>
+      <td>2</td>
+      <td>--</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>     
+    <tr>
+      <td>CES</td>
+      <td>-- </td>
+      <td>-- </td>
+      <td>-- </td>
+      <td>Paper 1</td>
+      <td>-- </td>
+      <td>-- </td>
+    </tr>
+  </tbody>
+</table>
+
+Community Engagement & Service(CES)/ Fieldwork/ Internship.<br>
+Papers with 4 credits each: Major(15×4), Minor(6×4), AEC(2×4) & CES(1×4) = 96.<br>
+Papers with 3 credits each: MDC(3×3), SEC(3×3) & VAC(4×3) = 30.
+
+### Distribution of Marks
+**Every paper has full marks 100 irrespective of credit in a course/ Paper**. In the structured grading system all papers are initially worth a nominal 100 marks, but the components are weighted differently when contributing to the final grade. **The Semester end Theory examination shall be for 100 marks of three hours duration**. However, the weightage shall be 50 or 60 for papers with or without Practical component, respectively. The weightage breakdown provided is as follows:
+
+| Course Type | Without Practical | With Practical |
+|-------------|-------------------|----------------|
+| Semester end Theory(100) | 60(weighted)| 50(weighted)|
+| Continuous evaluation or sessional marks | 20 | 10 |
+| Mid Semester Theory mark | 20 | 10 |
+| Semester end Practical marks | -- | 20 |
+| Mid Semester Practical marks | -- | 10 |
+
+#### Distribution of Continuous Evaluation or Sessional Marks: 10/20
+
+<table>
+  <thead>
+    <tr>
+      <th>Course type</th>
+      <th>Attendance(5)</th>
+      <th>Surprise Test/ Quiz</th>
+      <th>Assignment / Presentation</th>
+    </tr>  </thead>
+  <tbody>
+    <tr>
+      <td>Without Practical</td>
+      <td rowspan="2">Above 95% 5 
+      <br>85% -- 94%  4  
+      <br>75% -- 84%  3 
+      </td>
+      <td>10</td>
+      <td>05</td>
+</tr>
+    <tr>
+      <td>With Practical</td>
+      <td>05</td>
+      <td>nil</td>
+</tr>
+  </tbody>
+</table>
+
+### Physics Papers
 Model Curriculum for Three/Four Year Degree Course (With Multiple Entry /Exit Option) Based 
 on NEP-2020 for Physics by Odisha State Higher Education Council, Bhubaneswar, 
 Government of Odisha provides the following subjects:
 
-##### Semester I
-* Core I -  Mathematical Physics-I
-* Core II-  Mechanics
+* Semester I
+	* Core I -  Mathematical Physics-I
+	* Core II-  Mechanics
   
-##### Semester II
-* Core III-  Electricity and Magnetism
-* Core IV -  Mathematical Physics-II
+* Semester II
+	* Core III-  Electricity and Magnetism
+	* Core IV -  Mathematical Physics-II
 
-##### Semester III
-* Core V-   Waves and Optics
-* Core VI-  Mathematical Physics-III
-* Core VII-  Thermal Physics
+* Semester III
+	* Core V-   Waves and Optics
+	* Core VI-  Mathematical Physics-III
+	* Core VII-  Thermal Physics
 
-##### Semester IV
-* Core VIII-  Analog Systems
-* Core IX-  Basic Instrumentation
-* Core X-  Nuclear and Particle Physics
+* Semester IV
+	* Core VIII-  Analog Systems
+	* Core IX-  Basic Instrumentation
+	* Core X-  Nuclear and Particle Physics
 
-##### Semester V
-* Core XI-   Digital Systems
-* Core XII-  Quantum Mechanics and Applications
-* Core XIII-  Solid State Physics
+* Semester V
+	* Core XI-   Digital Systems
+	* Core XII-  Quantum Mechanics and Applications
+	* Core XIII-  Solid State Physics
 
-##### Semester VI
-* Core XIV-  Electromagnetic Theory
-* Core XV-  Statistical Mechanics
+* Semester VI
+	* Core XIV-  Electromagnetic Theory
+	* Core XV-  Statistical Mechanics
 
-##### Semester VII (4th year)
-* Core XVI-  Mathematical Methods in Physics
-* Core XVII-  Classical Mechanics
-* Core XVIII-  QUANTUM MECHANICS
-* Core XIX-  LABORATORY: COMPUTATIONAL PHYSICS
+* Semester VII (4th year)
+	* Core XVI-  Mathematical Methods in Physics
+	* Core XVII-  Classical Mechanics
+	* Core XVIII-  QUANTUM MECHANICS
+	* Core XIX-  LABORATORY: COMPUTATIONAL PHYSICS
 
-##### Semester VIII (4th year)
-* Core XX-  Classical Electrodynamics
-* Core XXI-  QUANTUM MECHANICS-II
-* Core XXII-  Electronics
-* Core XXIII-  Laboratory: Optics and Modern Physics Lab
+* Semester VIII (4th year)
+	* Core XX-  Classical Electrodynamics
+	* Core XXI-  QUANTUM MECHANICS-II
+	* Core XXII-  Electronics
+	* Core XXIII-  Laboratory: Optics and Modern Physics Lab
       
 
 
@@ -102,7 +237,95 @@ Government of Odisha provides the following subjects:
 
 --------
 
-# CBCS Model syllabus 2019
+
+
+### QUESTION BANK
+
+<div class="accordion">
+  
+<details name="sem">
+  <summary>GE, Minor or MDC</summary>
+  <ul>
+    <li><a href="https://rancoll.blogspot.com/2026/01/ge-cbcs.html" target="_blank">GE (CBCS)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/ge-practical.html" target ="_blank">GE Practical (CBCS)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/minors.html" target="_blank">MINORS (NEP)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/minor-2-practical.html">MINORS PRACTICAL</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/01/mdc-nano-phy.html" target="_blank">MDC (NANO PHYSICS-NEP)</a></li>
+    <li><a href="https://rancoll.blogspot.com/2026/02/dse-1-classical-dynamics.html" target="_blank">CBCS DES 1 Classical Dynamics</a></li>
+  </ul>
+</details>
+
+<details name="sem">
+  <summary>Semester 1</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2025/05/paper-1.html" target="_blank">Paper 1 (Mathematical Physics-I: Calculus &amp; Vectors)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-1-pract.html" target="_blank">Paper 1 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2025/05/paper2.html" target="_blank">Paper 2 (Mechanics) </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-2-practical.html" target="_blank">Paper 2 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 2</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-3.html" target="_blank">Paper 3 (Electricity and Magnetism)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-3-practical.html" target="_blank">Paper 3 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-4.html" target="_blank">Paper 4 (Mathematical Physics-II: Fourier Series, Polynomials, PDE)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-4-practical.html" target="_blank">Paper 4 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 3</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-5.html" target="_blank">Paper 5 (Waves and Optics)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-5-practical.html" target="_blank">Paper 5 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-6.html" target="_blank">Paper 6 (Mathematical Physics-III: Complex Analysis, Integral transforms, Laplace T.)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-6-practical.html" target="_blank">Paper 6 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-7.html" target="_blank">Paper 7 (Thermal Physics)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-7-practical.html" target="_blank">Paper 7 Practical </a></li>
+  </ol>
+
+</details>
+
+<details name="sem">
+  <summary>Semester 4</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-8.html" target="_blank">Paper 8 (Analog Systems)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-8-practical.html" target="_blank">Paper 8 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-9.html" target="_blank">Paper 9 (Basic Instrumentation)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-9-practical.html" target="_blank">Paper 9 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-10.html" target="_blank">Paper 10 (Nuclear and Particle Physics)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-10-practical.html" target="_blank">Paper 10 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 5</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-11.html" target="_blank">Paper 11(Digital Systems)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-11-practical.html" target="_blank">Paper 11 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-12.html" target="_blank">Paper 12 (Quantum Mechanics and Applications)</a> </li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-12-practical.html" target="_blank">Paper 12 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-13.html" target="_blank">Paper 13 (Solid State Physics)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-13-practical.html" target="_blank">Paper 13 Practical </a></li>
+  </ol>
+</details>
+
+<details name="sem">
+  <summary>Semester 6</summary>
+  <ol>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-14.html" target="_blank">Paper 14 (Electromagnetic Theory)</a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-14-practical.html" target="_blank">Paper 14 Practical </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-15.html" target="_blank">Paper 15 (Statistical Mechanics) </a></li>
+    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-15-practical.html" target="_blank">Paper15 Practical </a></li>
+  </ol>
+</details>
+
+</div> <!--accordion-->
+
+----
+## CBCS Model syllabus 2019
 Prior to the adoption of the National Education Policy (NEP) 2020, Utkal University implemented the Model Syllabus 2019 as prescribed by DHE, Odisha. This system served as the standardized educational framework for undergraduate programs across the state prior to the current reforms. The DHE, Odisha, had developed the 2019 syllabus to standardize undergraduate education across the state's universities and colleges. This system typically operated under a **CBCS (Choice Based Credit System)** framework and a semester-based structure, which was the prevailing system nationwide before the holistic restructuring mandated by NEP 2020.
 
 The structure of the three-year B.Sc. Physics Honours program at Utkal University, under the 2019 DHE, Odisha CBCS model syllabus, was divided into six semesters with specific course types: Core Courses (CC), Ability Enhancement Compulsory Courses (AECC), Skill Enhancement Courses (SEC), and Discipline Specific Elective (DSE) courses. 
@@ -260,224 +483,4 @@ The structure of the three-year B.Sc. Physics Honours program at Utkal Universit
 |Without Practical | 20 | 80 |-- | 50 Theory +10 Tutorial |
 |With Practical| 15|60|25|40 Theory +20 Tutorial|
 
-
-# NEP 2020
-The implementation of NEP 2020 introduced a significant paradigm shift in Education sector, most notably through the establishment of the **Four-Year Undergraduate Programme (FYUP)**. Key features of the new system include **flexible multiple entry and exit points**, an updated credit architecture, and a strong emphasis on interdisciplinary studies and vocational skills, moving away from the previous prescriptive model.
-
-Utkal University offers for its affiliated Colleges, **Single Major (Honours) Two Minor Scheme** in lieu of the earler existing **Honours** curriculum. Effective from the **2024–25** academic session, Utkal University has implemented the <b>National Education Policy (NEP) 2020</b> for all undergraduate degree courses. Under the new structure, every paper culminates in a final examination worth a total of **100 marks**. This final exam weightage is 50% for subjects with a practical component and 60% for purely non-practical (theory) subjects, to the gradesheet. Previously known  <b>Honours Core Papers</b> are now officially referred to as <b>Major Papers</b>. Despite changes in examination question patterns and paper redistribution, the core syllabus content of relevant subjects remains consistent with the corresponding new major papers. 
-
-Utkal University has adopted  Single Major (Honours) Two Minor Scheme for its affiliated colleges in place of the Honours stream. The **Physics Single Major two Minors (Chemistry & Math)** will have the following Paper structure as per the regulations of OSHEC.
-
- <table>
-  <thead>
-    <tr>
-      <th>Semester: </th> <th>I</th> <th>II</th>
-      <th>III</th> <th>IV</th> <th>V</th> <th>VI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Major-1-Paper- </td>
-      <td>1 & 2 </td>
-      <td>3 & 4 </td>
-      <td>5, 6 & 7 </td>
-      <td>8, 9 & 10 </td>
-      <td>11, 12 & 13 </td>
-      <td>14 & 15 </td>
-    </tr>
-     <tr>
-      <td>Minor-1-Paper-</td>
-      <td>1</td>
-      <td>-- </td>
-      <td>2</td>
-      <td>-- </td>
-      <td>3</td>
-      <td>-- </td>
-    </tr>
-      <tr>
-      <td>Minor-2-Paper-</td>
-      <td>-- </td>
-      <td>1</td>
-      <td>-- </td>
-      <td>2</td>
-      <td>-- </td>
-      <td>3</td>
-    </tr>
-     <tr>
-      <td>Multi Disciplinary</td>
-      <td>MDC 1</td>
-      <td>MDC 2</td>
-      <td>MDC 3</td>
-      <td>--</td>
-      <td>--</td>
-      <td>--</td>
-    </tr> 
-      <tr>
-      <td>AEC</td>
-      <td>1 Odia</td>
-      <td>2 English </td>
-      <td>--</td>
-      <td>--</td>
-      <td>--</td>
-      <td>--</td>
-    </tr>
-     <tr>
-      <td>SEC</td>
-      <td>--</td>
-      <td>1</td>
-      <td>--</td>
-      <td>--</td>
-      <td>2</td>
-      <td>3</td>
-    </tr>     
-    <tr>
-      <td>VAC</td>
-      <td>1 ES&DM</td>
-      <td>--</td>
-      <td>2</td>
-      <td>--</td>
-      <td>3</td>
-      <td>4</td>
-    </tr>     
-    <tr>
-      <td>CES</td>
-      <td>-- </td>
-      <td>-- </td>
-      <td>-- </td>
-      <td>Paper 1</td>
-      <td>-- </td>
-      <td>-- </td>
-    </tr>
-  </tbody>
-</table>
-
-Community Engagement & Service(CES)/ Fieldwork/ Internship.<br>
-Papers with 4 credits each: Major(15×4), Minor(6×4), AEC(2×4) & CES(1×4) = 96.<br>
-Papers with 3 credits each: MDC(3×3), SEC(3×3) & VAC(4×3) = 30.
-
-### Distribution of Marks
-**Every paper has full marks 100 irrespective of credit in a course/ Paper**. In the structured grading system all papers are initially worth a nominal 100 marks, but the components are weighted differently when contributing to the final grade. **The Semester end Theory examination shall be for 100 marks of three hours duration**. However, the weightage shall be 50 or 60 for papers with or without Practical component, respectively. The weightage breakdown provided is as follows:
-
-| Course Type | Without Practical | With Practical |
-|-------------|-------------------|----------------|
-| Semester end Theory(100) | 60(weighted)| 50(weighted)|
-| Continuous evaluation or sessional marks | 20 | 10 |
-| Mid Semester Theory mark | 20 | 10 |
-| Semester end Practical marks | -- | 20 |
-| Mid Semester Practical marks | -- | 10 |
-
- 
-
-#### Distribution of Continuous Evaluation or Sessional Marks: 10/20
-
-<table>
-  <thead>
-    <tr>
-      <th>Course type</th>
-      <th>Attendance(5)</th>
-      <th>Surprise Test/ Quiz</th>
-      <th>Assignment / Presentation</th>
-    </tr>  </thead>
-  <tbody>
-    <tr>
-      <td>Without Practical</td>
-      <td rowspan="2">Above 95% 5 
-      <br>85% -- 94%  4  
-      <br>75% -- 84%  3 
-      </td>
-      <td>10</td>
-      <td>05</td>
-</tr>
-    <tr>
-      <td>With Practical</td>
-      <td>05</td>
-      <td>nil</td>
-</tr>
-  </tbody>
-</table>
-
-## QUESTION BANK
-
-<div class="accordion">
-  
-<details name="sem">
-  <summary>GE, Minor or MDC</summary>
-  <ul>
-    <li><a href="https://rancoll.blogspot.com/2026/01/ge-cbcs.html" target="_blank">GE (CBCS)</a></li>
-    <li><a href="https://rancoll.blogspot.com/2026/02/ge-practical.html" target ="_blank">GE Practical (CBCS)</a></li>
-    <li><a href="https://rancoll.blogspot.com/2026/02/minors.html" target="_blank">MINORS (NEP)</a></li>
-    <li><a href="https://rancoll.blogspot.com/2026/02/minor-2-practical.html">MINORS PRACTICAL</a></li>
-    <li><a href="https://rancoll.blogspot.com/2026/01/mdc-nano-phy.html" target="_blank">MDC (NANO PHYSICS-NEP)</a></li>
-    <li><a href="https://rancoll.blogspot.com/2026/02/dse-1-classical-dynamics.html" target="_blank">CBCS DES 1 Classical Dynamics</a></li>
-  </ul>
-</details>
-
-<details name="sem">
-  <summary>Semester 1</summary>
-  <ol>
-    <li> <a href="https://rancoll.blogspot.com/2025/05/paper-1.html" target="_blank">Paper 1 (Mathematical Physics-I: Calculus &amp; Vectors)</a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-1-pract.html" target="_blank">Paper 1 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2025/05/paper2.html" target="_blank">Paper 2 (Mechanics) </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-2-practical.html" target="_blank">Paper 2 Practical </a></li>
-  </ol>
-</details>
-
-<details name="sem">
-  <summary>Semester 2</summary>
-  <ol>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-3.html" target="_blank">Paper 3 (Electricity and Magnetism)</a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-3-practical.html" target="_blank">Paper 3 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-4.html" target="_blank">Paper 4 (Mathematical Physics-II: Fourier Series, Polynomials, PDE)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-4-practical.html" target="_blank">Paper 4 Practical </a></li>
-  </ol>
-</details>
-
-<details name="sem">
-  <summary>Semester 3</summary>
-  <ol>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-5.html" target="_blank">Paper 5 (Waves and Optics)</a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-5-practical.html" target="_blank">Paper 5 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-6.html" target="_blank">Paper 6 (Mathematical Physics-III: Complex Analysis, Integral transforms, Laplace T.)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-6-practical.html" target="_blank">Paper 6 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-7.html" target="_blank">Paper 7 (Thermal Physics)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-7-practical.html" target="_blank">Paper 7 Practical </a></li>
-  </ol>
-
-</details>
-
-<details name="sem">
-  <summary>Semester 4</summary>
-  <ol>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-8.html" target="_blank">Paper 8 (Analog Systems)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-8-practical.html" target="_blank">Paper 8 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-9.html" target="_blank">Paper 9 (Basic Instrumentation)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-9-practical.html" target="_blank">Paper 9 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-10.html" target="_blank">Paper 10 (Nuclear and Particle Physics)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-10-practical.html" target="_blank">Paper 10 Practical </a></li>
-  </ol>
-</details>
-
-<details name="sem">
-  <summary>Semester 5</summary>
-  <ol>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-11.html" target="_blank">Paper 11(Digital Systems)</a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-11-practical.html" target="_blank">Paper 11 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-12.html" target="_blank">Paper 12 (Quantum Mechanics and Applications)</a> </li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-12-practical.html" target="_blank">Paper 12 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-13.html" target="_blank">Paper 13 (Solid State Physics)</a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-13-practical.html" target="_blank">Paper 13 Practical </a></li>
-  </ol>
-</details>
-
-<details name="sem">
-  <summary>Semester 6</summary>
-  <ol>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-14.html" target="_blank">Paper 14 (Electromagnetic Theory)</a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-14-practical.html" target="_blank">Paper 14 Practical </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/01/paper-15.html" target="_blank">Paper 15 (Statistical Mechanics) </a></li>
-    <li> <a href="https://rancoll.blogspot.com/2026/02/paper-15-practical.html" target="_blank">Paper15 Practical </a></li>
-  </ol>
-</details>
-
-</div> <!--accordion-->
 
